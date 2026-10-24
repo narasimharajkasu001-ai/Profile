@@ -19,6 +19,7 @@ export const profile = {
   social: {
     linkedin: "https://www.linkedin.com/in/narsimharaj-kasu-6a2968198",
     instagram: "https://www.instagram.com/narasimharaju.kasu/",
+    facebook: "https://www.facebook.com/Narasimha.Raju.Kasu/",
     whatsapp: "https://wa.me/+919121372959",
   },
   parents: [
@@ -81,7 +82,8 @@ export const chapters = [
     facts: [
       { label: "Languages", value: "English, Telugu, Hindi" },
       { label: "Lives in", value: "Hyderabad" },
-      { label: "Hobbies", value: "Gym, plantation, browsing with gpt, understanding about politics, tech, economy" },
+      { label: "Hobbies", value: "Gym, plantation, browsing with gpt, observing politics, technology, economy" },
+      { label: "Marital Status", value: "Divorced" },
     ],
   }
 ];
@@ -90,7 +92,6 @@ export const sections = [
   { id: "name", label: "Name" },
   { id: "background", label: "Background" },
   { id: "about", label: "About" },
-  { id: "hobbies", label: "Hobbies" },
   { id: "family", label: "Family" },
   { id: "contact", label: "Contact" },
 ];

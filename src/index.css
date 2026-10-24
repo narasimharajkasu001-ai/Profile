@@ -567,6 +567,8 @@ button:disabled {
   padding: 0;
   display: grid;
   gap: 12px;
+  display: flex;
+  flex-direction: column;
 }
 
 .socials a {
